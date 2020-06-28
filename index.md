@@ -6,7 +6,7 @@ title: Eric Tabarly the seafarer
 Soldier with French Air Force, professional seaman, winner of many races.
 
 <div id="webaddress">
-<a href="tabarly.org">tbarly.org</a>
+<a href="tabarly.org">tabarly.org</a>
 | <a href="http://en.wikipedia.org/wiki/Eric_Tabarly">My wikipedia page</a>
 </div>
 
