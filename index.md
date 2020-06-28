@@ -60,7 +60,10 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+## Famous Quote
 
+> Better fast sailing than slow thinking
+> was my attitude
 
 <!-- ### Footer
 
