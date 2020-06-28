@@ -4,6 +4,7 @@ title: Eric Tabarly the seafarer
 ---
 # Eric Tabarly
 Soldier with French Air Force, professional seaman, winner of many races.
+Very famous for winning across the atlantic and around the globe races several times. Unfortunately lost at sea when sailing with friends for leasure purposes in the Biscay with his beloved boat Pen Duick.
 
 <div id="webaddress">
 <a href="tabarly.org">tbarly.org</a>
