@@ -1,1 +1,3 @@
-A website for my favourite character is currently being built here!
+---
+title: A website for Eric, my favourite seaman is currently being built here!
+---
