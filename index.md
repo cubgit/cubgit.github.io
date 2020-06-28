@@ -65,6 +65,8 @@ Associate, *French Academy of Science*, Paris, France
 > Better fast sailing than slow thinking
 > was my attitude
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pen-Duick-5.jpg/1280px-Pen-Duick-5.jpg">
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
